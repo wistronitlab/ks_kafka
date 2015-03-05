@@ -1,0 +1,2 @@
+# ks_kafka
+Kickstart Kafka是用來記錄及儲存apache kafka這個軟件的5W1H的相關資訊、教學文件及範例源碼
